@@ -1,4 +1,4 @@
-# ModuleManager Tutorial for Complete Beginners - Lesson 2 - ModuleManager Basics
+# ModuleManager Tutorial for Complete Beginners - Lesson 3 - Edit Prefix
 
 Let's go over the command symbols, otherwise known as prefixes.
 
