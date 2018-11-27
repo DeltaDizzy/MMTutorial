@@ -3,6 +3,7 @@
 The need to delte a node or value will come surprisingly often.  You can delete with 2 different symbols, `!` and `-`. To delete a value, set the value to anything while uing the delete prefix:
 * `!mass = DELETE`
 * `!mass = Billy Mays here, let me introduce you to another amazing product`
+
 When Deleting a node, specify the `name` value in square brackets and add 2 empty curly braces on the end.
 Each symbol can be used anywhere the other can.
 
