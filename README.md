@@ -13,7 +13,7 @@ Lessons build off of one anther to make learning easy.
 * [Lesson 3 - Edit](https://github.com/DeltaDizzy/MMTutorial/tree/master/Lessons/3%20-%20Edit)
 * [Lesson 4 - Edit Or Create](https://github.com/DeltaDizzy/MMTutorial/tree/master/Lessons/4%20-%20Edit%20Or%20Create)
 * [Lesson 5 - Delete](https://github.com/DeltaDizzy/MMTutorial/tree/master/Lessons/5%20-%20Delete)
-* [Lesson 6 - Copy]((https://github.com/DeltaDizzy/MMTutorial/tree/master/Lessons/6%20-%20Copy)
+* [Lesson 6 - Copy](https://github.com/DeltaDizzy/MMTutorial/tree/master/Lessons/6%20-%20Copy)
 
 The offical ModuleManager Handbook is here, but it may be out-of-date:
 [https://github.com/sarbian/ModuleManager/wiki/Module-Manager-Syntax](https://github.com/sarbian/ModuleManager/wiki/Module-Manager-Syntax)
