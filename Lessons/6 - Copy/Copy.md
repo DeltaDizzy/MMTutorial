@@ -1,4 +1,4 @@
-# ModuleManager for Complete Beginners - Lesson 7 - Copy
+# ModuleManager for Complete Beginners - Lesson 6 - Copy
 
 Sometimes you will want to use a preexisting node as a kind of template. Here's an example from one of my mods. It adds a converter module to the stock ISRU parts.
 ```
